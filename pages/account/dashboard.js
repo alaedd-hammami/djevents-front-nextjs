@@ -49,6 +49,7 @@ export default function DashboardPage({ events, token }) {
         )}
       </div>
     </Layout>
+    //comment
   )
 }
 
